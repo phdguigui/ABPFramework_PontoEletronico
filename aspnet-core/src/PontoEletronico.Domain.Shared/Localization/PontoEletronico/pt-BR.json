@@ -1,0 +1,18 @@
+{
+  "culture": "pt-BR",
+  "texts": {
+    "AppName": "PontoEletronico",
+    "Menu:Home": "Principal",
+    "Welcome": "Seja bem-vindo!",
+    "LongWelcomeMessage": "Bem-vindo a esta aplicação. Este é um projeto inicial baseado no ABP framework. Para mais informações, visite abp.io.",
+    "Permission:PontoEletronico": "Ponto Eletrônico",
+    "Permission:Funcionarios": "Gestão de Funcionários",
+    "Permission:Funcionarios.Create": "Adicionar novos funcionários",
+    "Permission:Funcionarios.Edit": "Editar informações dos usuários",
+    "Permission:Funcionarios.Delete": "Deletar os usuários",
+    "Permission:Setores": "Gestão de setores",
+    "Permission:Setores.Create": "Adicionar novos setores",
+    "Permission:Setores.Edit": "Editar informações dos setores",
+    "Permission:Setores.Delete": "Deletar os setores"
+  }
+}
